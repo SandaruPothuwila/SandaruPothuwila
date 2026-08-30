@@ -31,9 +31,9 @@
 <table>
   <tr>
     <td width="62%" valign="top">
-      <h3>Hey there, I'm Spoidy</h3>
+      <h3>Hey there, I'm Sandaru (Spoidy)</h3>
       <p>
-        I'm an <b>enthusiastic developer from Sri Lanka</b> who loves building software, experimenting with new technology, and turning curiosity into real-world applications.
+        I'm <b>Sandaru Pothuwila</b> (known online as <b>Spoidy</b>), an <b>enthusiastic developer from Sri Lanka</b> who loves building software, experimenting with new technology, and turning curiosity into real-world applications.
       </p>
       <p>
         I practice the philosophy of <b>改善 (Kaizen)</b> — the relentless pursuit of daily improvement and mastering the craft step by step. Most of my projects begin as personal experiments where I challenge myself to dissect systems, explore unfamiliar architectures, and figure out how things work under the hood.
@@ -192,6 +192,6 @@
   
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0d1117,100:000000&height=100&section=footer" width="100%" alt="Footer Banner" />
 
-  <sub>Crafted with passion by <b>Spoidy</b> • Reach me at <a href="mailto:contact@spoidy.cloud">contact@spoidy.cloud</a></sub>
+  <sub>Crafted with passion by <b>Sandaru Pothuwila (Spoidy)</b> • Reach me at <a href="mailto:contact@spoidy.cloud">contact@spoidy.cloud</a></sub>
 
 </div>
