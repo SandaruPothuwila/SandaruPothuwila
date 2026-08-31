@@ -42,7 +42,7 @@
         <li><b>Building:</b> Desktop applications, modern web tools, and backend utilities.</li>
         <li><b>Experimenting:</b> Exploring new frameworks, native integrations, and distributed workflows.</li>
         <li><b>Craftsmanship:</b> Focused on minimalist aesthetics, clean architecture, and responsive polish.</li>
-        <li><b>Mindset:</b> <i>"Break it, analyze it, understand it, rebuild it better."</i></li>
+        
       </ul>
     </td>
     <td width="38%" valign="top">
